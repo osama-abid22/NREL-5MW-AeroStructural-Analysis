@@ -1,9 +1,9 @@
 # Aero-Structural Analysis of the NREL 5MW Wind Turbine #
 
-[![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/YOURUSERNAME/NREL-5MW-Analysis)](https://github.com/YOURUSERNAME/NREL-5MW-Analysis/issues)
-[![PRs](https://img.shields.io/github/issues-pr/YOURUSERNAME/NREL-5MW-Analysis)](https://github.com/YOURUSERNAME/NREL-5MW-Analysis/pulls)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Data](https://img.shields.io/badge/Data-NREL_TP--500--38060-green)
+![Engineering](https://img.shields.io/badge/Engineering-Interpolation_%7C_Optimization-orange) 
 
 
 
@@ -219,6 +219,7 @@ MSc Clean Energy Processes (FAU)
 
 Mechanical Design Engineer interested in wind turbine design, computational tools, and renewable system optimisation.
 www.linkedin.com/in/osama-abid
+
 
 
 
